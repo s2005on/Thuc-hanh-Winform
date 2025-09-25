@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\bin\Debug\net8.0-windows\Thuchanh1.exe
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\bin\Debug\net8.0-windows\Thuchanh1.deps.json
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\bin\Debug\net8.0-windows\Thuchanh1.runtimeconfig.json
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\bin\Debug\net8.0-windows\Thuchanh1.dll
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\bin\Debug\net8.0-windows\Thuchanh1.pdb
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.Form1.resources
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.dll
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\refint\Thuchanh1.dll
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.pdb
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\Thuchanh1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Thuchanh1\Thuchanh1\obj\Debug\net8.0-windows\ref\Thuchanh1.dll
